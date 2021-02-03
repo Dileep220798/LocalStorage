@@ -1,2 +1,2 @@
 # LocalStorage
-Sample Storage
+Sample Storage using sqlite DB
